@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... Chatbots
+- 🌱 I’m currently learning ... NLP - Transformers
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...Chatbots, NLP
+
 <!--
 **Murgates/Murgates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
